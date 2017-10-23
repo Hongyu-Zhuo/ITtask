@@ -1,0 +1,28 @@
+<html><head>
+		<title>CSS九宫格</title>
+	 <meta charset="utf-8">
+	 <meta name="viewport" content="width=device-width initial-scale=1 maxmum-scale=1">
+	 <style type="text/css">
+	 	.box{
+	 		float: left;
+	 		width: 30%;
+	 		padding-top: 30%;
+	 		margin: 1% 1%;
+	 		background: yellow;
+	 		border-radius: 10%
+	 		
+	 	}
+	 </style>
+	 </head>
+  <body>
+  	<div class="box"></div>
+  	<div class="box"></div>
+  	<div class="box"></div>
+  	<div class="box"></div>
+  	<div class="box"></div>
+  	<div class="box"></div>
+  	<div class="box"></div>
+  	<div class="box"></div>
+  	<div class="box"></div>
+  
+</body></html>
